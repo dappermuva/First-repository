@@ -125,16 +125,20 @@ background: #aaa;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('redzelportrait.png') no-repeat center center /cover;
-    height: 80vh;
+    background: url('redzelportrait.png') 
+    no-repeat center center /cover;
+    height: 100vh;
     text-align: center;
-    position:inherit; 
+    
+    
 }
 #showcase .showcase-text {
     font-size: 3rem;
     width: 100%;
     color: #fff;
     margin-bottom: 1.5rem;
+    
+    
 }
 
 #showcase .secondary-btn {
